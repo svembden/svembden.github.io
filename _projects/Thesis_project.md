@@ -5,7 +5,7 @@ description: My BSc Thesis for Econometrics and Operational Research at the Eras
 img: assets/img/BSc_Thesis_final-pages-1.jpg
 pdf: assets/pdf/BSc_Thesis_final.pdf
 importance: 1
-category: work
+category: academic
 related_publications: false
 ---
 
