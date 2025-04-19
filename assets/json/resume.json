@@ -14,11 +14,13 @@
       "countryCode": "NL",
       "region": "The Netherlands"
     },
-    "profiles": [{
-      "network": "LinkedIn",
-      "username": "sem-van-embden-16488a205",
-      "url": "https://www.linkedin.com/in/sem-van-embden-16488a205/"
-    }]
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sem-van-embden-16488a205",
+        "url": "https://www.linkedin.com/in/sem-van-embden-16488a205/"
+      }
+    ]
   },
   "work": [
     {
@@ -97,11 +99,7 @@
       "startDate": "2021-09",
       "endDate": "2024-06",
       "score": "",
-      "courses": [
-        "Member of FAECTOR Study Association",
-        "Member of R.S.V. Sanctus Laurentius Student Association",
-        "Major in Quantitative Finance"
-      ]
+      "courses": ["Member of FAECTOR Study Association", "Member of R.S.V. Sanctus Laurentius Student Association", "Major in Quantitative Finance"]
     },
     {
       "institution": "Aarhus University, Denmark",
@@ -111,9 +109,7 @@
       "startDate": "2023-08",
       "endDate": "2023-12",
       "score": "",
-      "courses": [
-        "Followed courses in Machine Learning, Deep Learning, and Pricing & Hedging of Derivatives (MSc)"
-      ]
+      "courses": ["Followed courses in Machine Learning, Deep Learning, and Pricing & Hedging of Derivatives (MSc)"]
     },
     {
       "institution": "Libanon Lyceum Rotterdam",
@@ -123,9 +119,7 @@
       "startDate": "2015-08",
       "endDate": "2021-05",
       "score": "",
-      "courses": [
-        "Completed Gymnasium with the highest number of courses of the school."
-      ]
+      "courses": ["Completed Gymnasium with the highest number of courses of the school."]
     }
   ],
   "awards": [],
@@ -160,13 +154,7 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": [
-        "Python",
-        "Java",
-        "R",
-        "Eviews",
-        "MATLAB"
-      ]
+      "keywords": ["Python", "Java", "R", "Eviews", "MATLAB"]
     },
     {
       "name": "ELK-Stack",

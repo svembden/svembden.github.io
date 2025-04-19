@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-19 
+date: 2025-01-19
 title: What a result at the 26th Econometrics World Championship in Amsterdam!
 inline: true
 related_posts: false
@@ -13,4 +13,4 @@ Last week, I had the privilege of representing Erasmus School of Economics along
 We are proud to share that Erasmus University Rotterdam secured 2nd place in this year’s edition, right behind the University of Warsaw, and just ahead of the University of Amsterdam. It's was an exciting battle and an honour to stand on the podium next to you!
 A big shoutout as well to the Econometric Game board for organizing this event that brings together the best of international academic collaboration and applied econometrics.
 
-#EconometricGame #EG2025 #ErasmusUniversity #Econometrics #MachineLearning #TimeSeries #StudentCompetition #TinbergenInstitute #GridCongestion #Amsterdam #QuantCo #Northpool 
+#EconometricGame #EG2025 #ErasmusUniversity #Econometrics #MachineLearning #TimeSeries #StudentCompetition #TinbergenInstitute #GridCongestion #Amsterdam #QuantCo #Northpool

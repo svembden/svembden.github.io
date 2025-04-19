@@ -8,7 +8,7 @@ Hi!
 
 I am a motivated and ambitious professional with a passion for finance, data science, and machine learning. With a foundation in Econometrics & Operational Research (BSc) and currently pursuing an MSc in Quantitative Finance at Erasmus University Rotterdam, I bring strong analytical skills and a problem-solving mindset to every project I undertake.
 
-I have experience working both independently and collaboratively, providing data-driven insights to optimize business performance. My work with Salesguide and other clients has involved data cleaning, statistical analysis, automation of data processes, web scraping, and data visualization. 
+I have experience working both independently and collaboratively, providing data-driven insights to optimize business performance. My work with Salesguide and other clients has involved data cleaning, statistical analysis, automation of data processes, web scraping, and data visualization.
 
 Driven by curiosity and continuous learning, I’m equally passionate about finance, quantum mechanics, and AI. Outside of work, I enjoy racing, practising sports, and exploring new challenges.
 

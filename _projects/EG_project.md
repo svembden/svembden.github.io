@@ -22,6 +22,7 @@ This project contains the case descriptions and our papers written that granted 
 </div>
 
 The full top three of the Econometric Game 2025 was as follows:
+
 - 1st place: University of Warsaw
 - 2nd place: Erasmus University Rotterdam
 - 3rd place: University of Amsterdam
@@ -38,6 +39,7 @@ More information about the experience can be found on my news page or LinkedIn p
 </div>
 
 Download the case descriptions and our papers here:
+
 - [Case A Description](https://svembden.github.io/assets/pdf/BSc_Thesis_final.pdf)
 - [Case B Description](https://svembden.github.io/assets/pdf/BSc_Thesis_final.pdf)
 - [Paper Case A](https://svembden.github.io/assets/pdf/BSc_Thesis_final.pdf)
