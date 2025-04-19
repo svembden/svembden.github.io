@@ -3,7 +3,7 @@ layout: page
 title: Seminar Paper
 description: Paper for Seminar in Machine Learning for Econometrics and Operational Research at the Erasmus University Rotterdam.
 img: assets/img/Final_Report__ML_-pages-1.jpg
-importance: 2
+importance: 3
 category: Academic
 giscus_comments: true
 ---

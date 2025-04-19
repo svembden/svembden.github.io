@@ -4,7 +4,7 @@ title: BSc Thesis
 description: My BSc Thesis for Econometrics and Operational Research at the Erasmus University Rotterdam.
 img: assets/img/BSc_Thesis_final-pages-1.jpg
 pdf: assets/pdf/BSc_Thesis_final.pdf
-importance: 1
+importance: 2
 category: Academic
 related_publications: false
 ---
