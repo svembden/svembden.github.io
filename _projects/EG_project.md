@@ -38,7 +38,7 @@ More information about the experience can be found on my news page or LinkedIn p
 </div>
 
 Download the case descriptions and our papers here:
-- [Case A Description](https://svembden.github.io/assets/pdf/EG_2025_Case_A.pdf)
-- [Case B Description](https://svembden.github.io/assets/pdf/EG_2025_Case_B.pdf)
-- [Paper Case A](https://svembden.github.io/assets/pdf/Econometric_Game_2025_B.pdf)
-- [Paper Case B](https://svembden.github.io/assets/pdf/Econometric_Game_2025_B.pdf)
+- [Case A Description](https://svembden.github.io/assets/pdf/BSc_Thesis_final.pdf)
+- [Case B Description](https://svembden.github.io/assets/pdf/BSc_Thesis_final.pdf)
+- [Paper Case A](https://svembden.github.io/assets/pdf/BSc_Thesis_final.pdf)
+- [Paper Case B](https://svembden.github.io/assets/pdf/BSc_Thesis_final.pdf)
