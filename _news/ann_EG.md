@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-19
+date: 2025-04-19
 title: What a result at the 26th Econometrics World Championship in Amsterdam!
 inline: false
 related_posts: false
